@@ -1,4 +1,4 @@
-# Scraping Presidential Documents from the Web & Data for Presidential Speeches 
+## Scraping Presidential Documents from the Web & Data for Presidential Speeches 
 
 This repo contains a code sample for scraping presidential documents from the website ["American Presidency Project" (APP)](https://www.presidency.ucsb.edu/) and preparing the speeches for text analysis. 
 

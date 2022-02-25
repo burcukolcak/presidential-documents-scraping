@@ -1,0 +1,168 @@
+Barack Obama
+February 15, 2015
+
+Interview with Kara Swisher of "Re/code" in Stanford, California
+Swisher.Thank you for being here, Mr. President.
+The President.Great to be here.
+Swisher.Very excited to do an interview with Re/code. And we have a lot of topics to talk about in tech.
+The President.Let's go.
+Swisher.We're going to go from cyber security, your relationship with Silicon Valley, privacy, STEM education.
+The President.Got it all covered.
+Swisher.Got it all covered, all right.
+The President.Let's go.
+Swisher.Mr. Tech, okay. So let's talk about cyber security first. This is a cyber security summit. You had Tim Cook talking about it, all kinds of different leaders.
+The President.Right.
+Swisher.The dangers of what's happening. Right now, there's been a lot of instances of cyber security breaches, Sony being the most famous.
+The President.Right.
+Swisher.The government said North Korea was behind this?
+The President.Yeah.
+Swisher.Are these acts of war?
+The President.I wouldn't consider them acts of war. But I would consider them acts of property damage, commercial theft, that are serious. And whenever a criminal act like that is state-sponsored, it's a problem. I just had a terrific roundtable with CEOs and chief information officers from a whole bunch of different sectors of the economy.
+And one of the uniform things they said was state actors are in a different category because of the sophistication and the resources and the patience that they have. That's an area where [the] private sector's going to have to get help immediately from the government in a much more aggressive way, and a lot of what we're doing in terms of information sharing, gathering data, getting it out, disseminating it all throughout the economy much quicker — we've gotten better at that.
+Then what you have is a bunch of non-state actors, hackers, criminals, etc., that are just flooding the system, constantly probing for weaknesses. And part of what this summit is about is both making sure that we have mechanisms for government/private sector cooperation, increased consumer awareness of how they can reduce their vulnerabilities, how we can build better defenses, how we can respond better and more resiliently. And one of the big conclusions is this is moving so fast that we've got to have a more nimble system. This isn't a traditional setting where you can just set up a few standards or rules—
+Swisher.I get that.
+The President.— or regulations, and then just sit on our laurels. We have to constantly update all the time.
+Swisher.But what does it have to be to become more serious? Shutting down New York? We're very vulnerable, as we become more digital.
+The President.We're hugely vulnerable. We've started with critical infrastructure. That's an area where heavy involvement with those industries — whether it's Wall Street and the financial sector, utilities, our air-traffic control system — all of that, increasingly, is dependent on the digital base that they're working off of.
+And so a lot of concentration there first. And one of the challenges is that a lot of this is private sector — the vast bulk of it is private sector. The government has to be able to not only work with each individual company, we've got to be able to pull those companies together so they're working together more effectively. And one of the things that makes this such a challenging problem is, all you need is one weak link. You can have nine companies ...
+Swisher.Well, in any defense.
+The President.Right. You can have nine companies that have great protocols, authentication systems, you name it. You have one that's not doing a good job, and that penetrates the entire system. So I think everybody recognizes now the degree of seriousness.
+The key is to coordinate more effectively the legislation that we've put before Congress that, for example, provides companies with some selective liability protections so that when they share information—
+Swisher.Right.
+The President.—they're not vulnerable to future lawsuits. Those are the kinds of areas where I would like to see us make a lot of progress this year.
+Swisher.We talk about North Korea being this bad actor ... around "The Interview."
+The President.Right.
+Swisher.We do our own hacking of other countries. There's been lots of reports about the Iran nuclear system and things like that. Can we make a good argument that we should be protected against them, when we're doing the same thing ourselves?
+The President.Obviously, I can't talk about specifics and whether ...
+Swisher.But please do. [Laugh]
+The President.... whether confirming or denying whatever you discuss. I mentioned in the CEO roundtable — a comment that was made by one of my national security team. This is more like basketball than football, in the sense that there's no clear line between offense and defense. Things are going back and forth all the time.
+We have great capabilities here. But there are other countries that have great capabilities, as well. Eventually, what we're going to need to do is to find some international protocols that, in the same way we did with nuclear arms, set some clear limits and guidelines, understanding that everybody's vulnerable and everybody's better off if we abide by certain behaviors. In the meantime, we have to have sufficient capability to defend ourselves. And—
+Swisher.Is that just defense? Or offense?
+The President.Well, I won't lie to you, this is a debate that we have internally. Because when you develop sufficient defenses, the same sophistication you need for defenses means that potentially you can engage in offense. Now, there are some things that we're very clear about. For example, we just don't do industrial espionage the way many other countries do, where their state-sponsored operations are going in and stealing information commercially.
+Swisher.Mmhm.
+The President.Most of the work that we do revolves around threats against us from non-state actors, and obviously terrorism is a huge field. And increasingly, cyber terrorism is going to be something that we're concerned about. But we are going to have to build in a whole set of safeguards to make sure that we are upholding high standards if we expect others to do the same.
+Swisher.I'm going to switch to something else in a second. But should there be a cyber army? Should we — our government — have this dedicated, the way they do in North Korea or China?
+The President.Well, what we have is a separate cyber structure, a cyber command that coordinates a lot of this activity, partly because our defense systems today, our armed forces, are dependent on the digital world in the same way that it has penetrated everything else. So this separate cyber command monitors, defends, focuses on protecting not only the Department of Defense and our armed forces, but also critical infrastructure, and is constantly monitoring what other state actors potentially could do. But — just to give you a sense of how challenging this is — it's not as if North Korea is particularly good at this.
+Swisher.They did ... not bad.
+The President.But look how much damage they were able to do. Non-state actors can do a lot damage, as well. So we've got to constantly upgrade our game, and that's part of the purpose of this.
+Swisher.Are there any countries you're worried about, comparatively? North Korea, not so good. Who's good?
+The President.Well — China and Russia are very good. Iran is good. And, and part of what we need— we're constantly engaged in is a dialogue with these countries in the same way that we engage in a dialogue around—
+Swisher.Nuclear arms
+The President.—nuclear arms, indicating to them that it doesn't serve anybody's purpose for us to attack in ways that may end up eliciting responses, and everybody's worse off.
+Swisher.Let's talk about the relationship between you and Silicon Valley. Lots of discussion about who wasn't here, and tensions, and sort of, "can this marriage be saved?" How do you look at your relationship right now with Silicon Valley? They're nervous about the NSA, they're still hurting about that. Visas, Zero-Day flaws, all kinds of things.
+The President.You know, look. It's your job to generate some controversy, but...
+Swisher.Now, some controversy ... [Laugh] Some of those quotes from the Google people are pretty tough.
+The President.But I think it's also fair to say that my relationship with Silicon Valley and the tech community has historically been really good. Many of these folks are my friends, and have been supporters, and we interact all the time.
+Swisher.Well, they're still giving a lot of money to ...
+The President.But what is true is that the Snowden disclosures were really harmful in terms of the trust between the government and many of these companies, in part because it had an impact on their bottom lines.
+Swisher.Mmhm.
+The President.You know... when you look back at what we've done, I have constantly tried to update the laws and rules governing how we operate in cyberspace with these new technologies.
+In the case of the NSA, we're probably a little slow. The truth is that what we did with respect to U.S. persons, what we did in this country, was strictly circumscribed. And, generally speaking, I can say with almost complete confidence that there haven't been abuses on U.S. soil. But...
+Swisher.But it's a global Internet world.
+The President.And that's the point.
+Swisher.And they're businesses.
+The President.And that has been the challenge. What is true — and I've said this publicly, so I'm not saying anything that's classified in any way — our capacities to scoop up information became so great, and traditionally there haven't been restraints on our intelligence community scooping up information from outside our borders and non-U.S. persons.
+So what ended up happening was that, in places like Germany, this had a huge impact — not just on government-to-government relations, but suddenly all the Silicon Valley companies that are doing business there find themselves challenged, in some cases not completely sincerely. Because some of those countries have their own companies who want to displace ours.
+I say all this to make the point that I think we have made real progress in narrowing the differences around the national security/privacy balance. There are still some issues like encryption that are challenging.
+Swisher.Let's talk about encryption.
+The President.That are challenging...
+Swisher.What's wrong with what Google and Apple are doing? You have encrypted email — shouldn't everybody have encrypted email, or have their protections?
+The President.Everybody should. And I'm a strong believer in strong encryption. Where the tension has come up, historically, what has happened, is that — let's say you knew a particular person was involved in a terrorist plot. And the FBI is trying to figure out who else were they communicating with, in order to prevent the plot.
+Traditionally, what has been able to happen is that the FBI gets a court order. They go to the company, they request those records—
+Swisher.Right.
+The President.—the same way that they'd go get a court order to request a wiretap.
+Swisher.Right.
+The President.The company technically can comply. The issue here is that — partly in response to customer demand, partly in response to legitimate concerns about consumer privacy — the technologies may be built to a point where, when the government goes to ...
+Swisher.They can't get the information.
+The President.The company says, "Sorry, we just can't pull it. It's so sealed and tight that, even though government has a legitimate request, technologically we cannot do it."
+Swisher.Is what they're doing wrong?
+The President.No, I think they are properly responding to a market demand. All of us are really concerned about making sure our ...
+Swisher.So what are you going to do?
+The President.Well, what we're going to try to do is to see: Is there a way for us to narrow this gap? Ultimately, everybody — and certainly this is true for me and my family — we all want to know that if we're using a smartphone for transactions, sending messages, having private conversations, that we don't have a bunch of people compromising that process.
+And so encryption— there's no scenario in which we don't want really strong encryption. The narrow question is going to be if there is a proper request for ... this isn't bulk collection, this isn't sort of fishing expeditions by government.
+Where there is a situation in which we're trying to get a specific case of a possible national security threat — is there a way of accessing it? If it turns out it's not, then we're really gonna have to have a public debate. And, you know, I think some in Silicon Valley would make the argument — which is a fair argument, and I get — that the harms done by having any kind of compromised encryption are far greater ...
+Swisher.That's an argument you used to make.
+The President.Well ...
+Swisher.You would have made. Has something changed with ...
+The President.No, I still make it. It's just that I am sympathetic to law enforcement.
+Swisher.Because years [ago], you were much stronger on civil liberty.
+The President.I'm as strong as I have been. I think the only concern is our law enforcement is expected to stop every plot. Every attack. Any bomb on a plane. The first time that attack takes place in which it turns out that we had a lead and we couldn't follow up on it, the public's going to demand answers.
+And this is a public conversation that we should end up having. I lean probably further in the direction of strong encryption than some do inside of law enforcement. But I am sympathetic to law enforcement because I know the kind of pressure they're under to keep us safe. And it's not as black-and-white as it's sometimes portrayed.
+Now, in fairness, I think the folks who are in favor of airtight encryption also want to be protected from terrorists.
+Swisher.True.
+The President.So you know, one of the interesting things about being in this job is [that] it does give you a bird's-eye view. You are smack-dab in the middle of these tensions that exist. But I guess what I would say is, there are times where folks who see this through a civil-liberties or privacy lens reject that there's any trade-offs involved, and in fact there are. And you've got to own the fact that it may be [that] we want to value privacy and civil liberty far more than we do ...
+Swisher.Safety.
+The President.The safety issues.
+Swisher.Right
+The President.But we can't pretend that there are no trade-offs whatsoever.
+Swisher.Let's go quickly into privacy. There's a privacy bill you've all been trying to pass forever, with some teeth in it.
+The President.Right.
+Swisher.Who owns their data? And, on the other side of the companies, have you all acquiesced too far to the Facebooks and Googles of the world, when Europe is being much more stringent?
+The President.I think you own your data, I think I own my data. I think we own our health-care data, I think we own our financial data.
+Swisher.Doesn't feel like it.
+The President.Well, and I think this is an area where, ironically, sometimes I also have tensions with Silicon Valley — because folks are quite keen on talking about government intrusion. [Laugh] But some of the commercial models that are set up obviously ...
+Swisher.A little intrusive.
+The President.... are fairly intrusive, as well.
+Swisher.Right. But they're selling us things. So ...
+The President.Yeah, exactly. So, I think part of the answer here is just people knowing ahead of time what's going on. People knowing how their data's being used. Much greater transparency in terms of its potential for migrating over into some sales-and-marketing scheme of somebody else's.
+And, you know, the more transparent we are, the more customers can make a choice. There are circumstances — I'll give one specific example that I talked a while back, about when it comes to educational technologies being sold and put into schools. And then it turns out that some kid who's going online to communicate with their teacher — their data is going to some marketing company that then sells to the kid. I think that's got to be off-limits. So there are going to be some areas where we just say no, even if the consumer is aware of it ahead of time.
+Swisher.But does it have any teeth, really? I mean, Europe is very strong on these things, and doing a lot of investigations into Google and Facebook and other companies.
+The President.In defense of Google and Facebook, sometimes the European response here is more commercially driven than anything else. As I've said, there are some countries like Germany, given its history with the Stasi, that are very sensitive to these issues. But sometimes their vendors — their service providers who, you know, can't compete with ours — are essentially trying to set up some roadblocks for our companies to operate effectively there.
+Swisher.Interesting.
+The President.We have owned the Internet. Our companies, you know, have created it, expanded it, perfected it in ways that they can't compete. And oftentimes what is portrayed as high-minded positions on issues sometimes is just designed—
+Swisher.Interesting.
+The President.—to carve out some of their commercial interests.
+Swisher.Let's talk about owning it. We have invented the Internet, we have created the most important technology companies. Losing that rapidly to other companies. Education, STEM, visas, all kinds of things, bringing the best talent here. Right now, diversity is another issue, especially women.
+The President.Right.
+Swisher.How do you look at this? How do we change the equation here? Because many people feel that, even though we've got this strong industry, we're losing on lots of ground.
+The President.First of all, we're not losing it rapidly. But what is true is that our lead will erode if we don't make some good choices now. STEM education, huge priority. Homegrown — we've got to have our kids in math and science, and it can't just be a handful of kids. It's got to be everybody. Everybody's got to learn how to code early. Everybody's got to...
+Swisher.I saw you were learning to code. Do you encourage your daughters to code?
+The President.I have, and I've said to ...
+Swisher.Do they?
+The President.Well, not as much as I would probably like. Although I think they got started a little bit late. Part of what you want to do is introduce this with the ABCs and the colors. And particularly, focusing on girls' participation — math, science, technology — early is important. Underrepresented groups, African Americans, Latinos. We've got to get those kids tapped in. That's the largest-growing part of our population. If they don't have basic digital literacy ...
+Swisher.What's the problem? I mean, because company after company, 70 percent white, 70 percent male, mostly white, mostly...
+The President.I think part of the problem is, just generally, our school systems aren't doing as good of a job on this, period. Full stop. And then part of what's happening is that we are not helping schools and teachers teach it in an interesting way.
+And what ends up happening is a certain portion of the population just drifts away. Girls, for example — we don't lift up models of them being successful in STEM. Somebody, you know, has talked about the degree to which we very rarely see portrayed on television
+Swisher.Right
+The President.— female engineers.
+Swisher.Yeah. And don't have any jobs, actually.
+The President.Right. So we just have to — we have to lift that stuff up. So that's the long term, getting that whole pool of talent focused. More immediately, we've got an urgent need right now. Comprehensive immigration reform would revise our system so that the best and the brightest from around the world come here, the ones who are studying here aren't forced to leave. We have been pushing this hard in Congress. So far, Congress has blocked it.
+Swisher.So what do you do?
+The President.Well, what I did with the executive action that I announced around immigration. There were some areas where I could help to reduce some of the backlog, some of the bureaucracy, [to] make it somewhat easier for talented foreign students to operate here. But we haven't gone far enough, and the legislation is what's going to be required. So we've got to keep on pushing on that. You know, overall, though, the good news is that the ecosystem here is so far ahead of anywhere else. There's so much talent, so much brain power, so much financing ...
+Swisher.It still leaves a lot of people out.
+The President.It well—but the point is is that there is so much more room to grow, I guess. It's not as if this is a mature, finite industry where it's a zero-sum game in terms of how many people can be participating. There's a huge possibility for talent — not just homegrown — from around the world, continuing to converge here in the United States. And it's, look, what used to be primarily Silicon Valley, now it's also Austin, Texas.
+Swisher.Well, they're trying. Yeah.
+The President.Yeah. I mean, there are a bunch of other places around the country — in Utah and others — where people are coalescing. I was at Boise, Idaho at Boise State, and they're doing all kinds of interesting stuff in the digital space, connecting universities with companies.
+So this is something that we want to democratize and see spread all across the country. We are putting together public/private partnerships around, for example, just getting more engineers. You know, we partnered with Intel and a bunch of companies.
+Swisher.Are you worried that China and others are graduating more engineers?
+The President.Yes. Although our engineers are still better. But part of what we need— we don't always need the absolute top MIT engineer. Part of what we also need is the standard engineer who can help on a production facility.
+Because, ironically, part of the reason that some tech production jobs have gone overseas is not so much in search of low wages as it is that there are just more engineers at this production level that can really help.
+Swisher.Alright, wrapping up, I want to ask you something about your personal tech habits.
+The President.Go ahead.
+Swisher.I know you watch a lot of sports.
+The President.I do.
+Swisher.Where are you watching things now? Are you watching it on your phone, or do you watch it on television?
+The President.You know, I'll be honest with you ...
+When it comes to ballgames, I'm still usually watching it on TV — DVR. But when it comes to highlights, I'm usually watching it on an iPad.
+Swisher.On an iPad. And you're still with the BlackBerry, right?
+The President.I use a BlackBerry mainly because I'm so restricted in what I can do—
+Swisher.Right.
+The President.—that it's basically just messages,
+Swisher.Are you going to shift...
+The President.and it's still easier for me to tap off the [BlackBerry]. But basically most of my non-work-related stuff, I'm working off the iPad. And the girls all have iPhones, so I can get around an iPhone pretty good.
+Swisher.Do you wear any "wearable shirts" or health devices, or things like that?
+The President.Not yet. I think ...
+Swisher.You missed the whole Google Glass thing, by the way.
+The President.Well, [laugh] no comment.
+Swisher.And what devices do you think you would use once you leave office? I know you like a selfie stick.
+The President.Well, right. As BuzzFeed showed. Actually, the first time I used that was when we were in Hawaii for vacation. My photographer, Pete Souza, had a GoPro, and folks were starting to use selfie sticks.
+Swisher.But do you use any other technology? It's just basically the iPad?
+The President.It's basically the iPad, although ... I don't have a Fitbit yet, but I work out hard. Word is that these Apple watches might be a good companion for my workout. So I'm going to see. I'm going to test it out.
+Swisher.Alright.
+The President.I don't want to give Tim Cook too big of a plug here ...
+Swisher.Yeah. But you just did. [Laugh]
+The President.... until I've actually seen the product. But he tells me it's pretty good.
+Swisher.Absolutely. Last question: If there was a hashtag for your administration, what would it be?
+The President.#YesWeCan.
+Swisher.Naturally. Thank you so much.
+The President.Great to talk to you. Thank you so much.

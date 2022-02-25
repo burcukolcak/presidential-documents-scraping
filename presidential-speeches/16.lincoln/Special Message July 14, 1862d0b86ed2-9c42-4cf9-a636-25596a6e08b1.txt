@@ -1,9 +1,0 @@
-Abraham Lincoln
-July 14, 1862
-
-Special Message
-Fellow-Citizens of the Senate and House of Representatives:
-Herewith is a draft of a bill to compensate any State which may abolish slavery within its limits, the passage of which substantially as presented I respectfully and earnestly recommend.
-ABRAHAM LINCOLN.
-Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,That whenever the President of the United States shall be satisfied that any State shall have lawfully abolished slavery within and throughout such State, either immediately or gradually, it shall be the duty of the President, assisted by the Secretary of the Treasury, to prepare and deliver to such State an amount of 6 per cent interest-bearing bonds of the United States equal to the aggregate value at $____ per head of all the slaves within such State as reported by the census of the year 1860; the whole amount for any one State to be delivered at once if the abolishment be immediate, or in equal annual installments if it be gradual, interest to begin running on each bond at the time of its delivery, and not before.
-And be it further enacted,That if any State, having so received any such bonds, shall at any time afterwards by law reintroduce or tolerate slavery within its limits contrary to the act of abolishment upon which such bonds shall have been received, said bonds so received by said State shall at once be null and void, in whosesoever hands they may be, and such State shall refund to the United States all interest which may have been paid on such bonds.

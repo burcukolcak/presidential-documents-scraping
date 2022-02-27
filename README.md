@@ -6,4 +6,5 @@ The code enables researchers to scrape presidential speeches for all US Presiden
 
 You will also find the data for the presidential speeches of all presidents (including Biden's first year) in this repo under the folder <i>separate_folders</i>. In total, there are **73,707 speeches**. Each president's speeches are stored under separate folders as .txt files.
 
+Please feel free to reach out to me at [burcukolcakk@gmail.com](burcukolcakk@gmail.com) if you have any questions or spot any errors!
 
